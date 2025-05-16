@@ -68,7 +68,13 @@ Example for VLAN 90 Interface:
 # DHCP Server Setup (on DHCP Server)
 <img width="1050" alt="dhcp pool" src="https://github.com/user-attachments/assets/c03b8822-4c84-441a-934b-bf6df6928bbf" />
 
-    
+#Access Point (AP Settings)
+<img width="894" alt="ap1" src="https://github.com/user-attachments/assets/8306583d-5a38-45ba-9578-4d35e6fc610b" />
+
+Connect to desired AP from mobile devices/laptop. 
+<img width="847" alt="ap2" src="https://github.com/user-attachments/assets/d35d4dfa-fff9-4970-9561-47c3b1eea7a3" />
+
+
 # Conclusion
 This project showcases a full real-world hospital network with enterprise-level design practices such as:
 ✅ VLAN segmentation
