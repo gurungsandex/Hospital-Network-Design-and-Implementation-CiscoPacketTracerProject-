@@ -72,14 +72,19 @@ Example for VLAN 90 Interface:
 # Conclusion
 This project showcases a full real-world hospital network with enterprise-level design practices such as:
 ✅ VLAN segmentation
+
 ✅ DHCP and DNS services
+
 ✅ Redundancy setup
+
 ✅ OSPF dynamic routing
+
 ✅ Server hosting
+
 ✅ Wireless and wired connectivity
 
 I am actively updating this project to add new features and technologies, such as:
-    🔒 Basic Firewall Rules and Access Control Lists (ACLs)
+    🔒 Firewall Rules and Access Control Lists (ACLs)
     🏳️‍🌈 VLAN Spanning Tree Protocol (STP) for Loop Prevention
     📈 SNMP Network Monitoring Configuration
     📊 Syslog Servers for Network Logging
